@@ -2,6 +2,8 @@
 
 一个面向机器人学习者的中文知识总结网站，覆盖基础理论、运动学、动力学、控制、感知与规划。
 
+在线访问：<https://zhichengkou.github.io/robot-notes/>
+
 ![Robot Notes 页面预览](./preview.png)
 
 ## 本地运行

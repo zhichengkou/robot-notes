@@ -196,7 +196,7 @@ function App() {
         <a href="#route" onClick={() => setMenu(false)}>学习路径</a>
         <a href="#about" onClick={() => setMenu(false)}>关于</a>
       </nav>
-      <a className="github-link" href="https://github.com/" target="_blank" rel="noreferrer"><Github size={18}/> GitHub</a>
+      <a className="github-link" href="https://github.com/zhichengkou/robot-notes" target="_blank" rel="noreferrer"><Github size={18}/> GitHub</a>
     </header>
 
     <main id="top">
@@ -249,7 +249,7 @@ function App() {
         <div className="about-icon"><Bot size={36}/></div><span className="section-no">OPEN KNOWLEDGE</span>
         <h2>把复杂知识，讲得足够清楚。</h2>
         <p>Robot Notes 是一个开放的机器人学习笔记项目。内容力求准确、直观，也欢迎你通过 GitHub 参与补充和修正。</p>
-        <a href="https://github.com/" target="_blank" rel="noreferrer">在 GitHub 上参与 <ArrowRight size={18}/></a>
+        <a href="https://github.com/zhichengkou/robot-notes" target="_blank" rel="noreferrer">在 GitHub 上参与 <ArrowRight size={18}/></a>
       </section>
     </main>
 
